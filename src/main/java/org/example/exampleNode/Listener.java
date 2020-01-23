@@ -1,4 +1,4 @@
-package exampleNode;
+package org.example.exampleNode;
 
 import org.apache.commons.logging.Log;
 import org.ros.message.MessageListener;
